@@ -1,12 +1,16 @@
-Create or repleace package xxx is
+
+Create or repleace package "xxx" is
+
   -- Author:xxx
   -- Created: xxx
+  
   Procedure main_xxx
+  
   Procedure main_xxx
 End xxx;
 
-creadadsf sss
-  ddd sss
-  dd sss
+creadadsf "sss"
+  ddd "sss"
+  dd "sss"
   d
 end;
